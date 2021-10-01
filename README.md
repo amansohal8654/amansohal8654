@@ -1,6 +1,6 @@
 ### Here is what I am working on👋
 
-- 🔭 I’m currently working on ... Menatl Health 
+- 🔭 I’m currently working on ... Mental Health
 - 🌱 I’m currently learning ... .Net Core && JavaScript
 - 👯 I’m looking to collaborate on ... .Net
 - 🤔 I’m looking for help with ... Cloud Computing
