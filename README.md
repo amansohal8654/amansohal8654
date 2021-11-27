@@ -8,3 +8,4 @@
 - 📫 How to reach me: ... sing [Gmail](mailto:amansohal8654@gmail.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am Limitless 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amansohal8654&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
