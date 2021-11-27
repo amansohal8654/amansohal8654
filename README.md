@@ -18,12 +18,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amansohal8654&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/amansohal8654">
+<a href="https://github.com/amansohal8654/.Net-MicroServices">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amansohal8654&repo=.Net-MicroServices&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/amansohal8654">
+<a href="https://github.com/amansohal8654/Air-Quality-Monitoring">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amansohal8654&repo=Air-Quality-Monitoring&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
