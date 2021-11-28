@@ -10,8 +10,9 @@
 - ⚡ Fun fact: ... I am Limitless 
 
 ## Languages and Tools
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <p>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" width=50px>
+	<i class="cbp-ig-icon devicon-docker-plain"></i>
 	<img src="https://i.pinimg.com/originals/07/ca/4a/07ca4afbde70ce0c995b3f63e9c04ceb.png" width=50px>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width=50px>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width=35px><span>&nbsp;</span>
