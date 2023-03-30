@@ -25,22 +25,3 @@
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width=40px>
 </p>
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/amansohal8654">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansohal8654&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
-</a>
-<a href="https://github.com/amansohal8654">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amansohal8654&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/amansohal8654/.Net-MicroServices">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amansohal8654&repo=.Net-MicroServices&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/amansohal8654/Air-Quality-Monitoring">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amansohal8654&repo=Air-Quality-Monitoring&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
-
